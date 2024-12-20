@@ -14,7 +14,7 @@ The objective of this project is to develop an interactive Ecommerce Sales Dashb
 - Highlights the top 10 countries based on sales, using a tree map to show relative contributions of each country.
 - Presents the top 5 sales-performing categories, allowing users to quickly identify best-selling product categories.
 - Displays the bottom 5 underperforming product categories, helping businesses understand where improvements are needed.
-- Dashboard Interaction  <a href="https://github.com/mamatha203/Ecommerce-Data-Analysis/blob/main/Ecommerce%20Sales%20Dashboard.xlsx">View Dataset</a>
+- Dashboard Interaction <a href="https://github.com/mamatha203/Ecommerce-Data-Analysis/blob/main/Ecommerce%20Sales%20Dashboard.xlsx">View Dashboard</a>
 ## Process
 - Verified that all relevant data is available, such as sales figures, order details, customer data, etc.
 - Organized data in a clean, tabular format with clear headers and consistent data types. 
